@@ -21,7 +21,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dell2duo&layout=compact&langs_count=7&theme=dracula"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dell2duo&theme=dracula" alt="dell2duo" />
 </div>
-
+ 
+<div align="left">
+  <img width="100px" height="100px" src="https://media.giphy.com/media/w89ak63KNl0nJl80ig/giphy.gif"></img>
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@faelrochahc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@faelrochahc" height="30" width="40" /></a>
