@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rafael</h1>
+<h1 align="center">Hi 👋, call me Rafael</h1>
 <h3 align="center">In love with React, passionate with development. Currently in Viçosa - MG (Brazil).</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dell2duo&label=Profile%20views&color=0e75b6&style=flat" alt="dell2duo" /> </p>
@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Typescript, TDD and Flutter.**
 
-- 💬 Ask me about **ReactJS and NodeJS**
+- 💬 Ask me about **React Native and NodeJS**
 
-- 📫 How to reach me <a href = "mailto:rafael.rocha.ufv@gmail.com" target="_blank" >**rafael.rocha.ufv@gmail.com**</a>
+- 📫 Send an email to <a href = "mailto:rafael.rocha.ufv@gmail.com" target="_blank" >**rafael.rocha.ufv@gmail.com**</a>
 
 - ⚡ Fun fact **Bad at math**
 
@@ -22,9 +22,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dell2duo&theme=dracula" alt="dell2duo" />
 </div>
  
-<div align="left">
-  <img width="100px" height="100px" src="https://media.giphy.com/media/w89ak63KNl0nJl80ig/giphy.gif"></img>
-</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@faelrochahc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@faelrochahc" height="30" width="40" /></a>
