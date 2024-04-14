@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, call me Rafael</h1>
-<h3 align="center">In love with React, passionate with development. Currently in Viçosa - MG (Brazil).</h3>
+<h3 align="center">In love with React, passionate with development. Currently in Juiz de Fora - MG (Brazil).</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dell2duo&label=Profile%20views&color=0e75b6&style=flat" alt="dell2duo" /> </p>
 
 <p align="center"> <a href="https://twitter.com/@faelrochahc" target="blank"><img src="https://img.shields.io/twitter/follow/faelrochahc?logo=twitter&style=for-the-badge" alt="@faelrochahc" /></a> </p>
 
-- 🔭 I’m currently working on **mobile development**
+- 🔭 I’m currently working on **front-end development**
 
-- 🌱 I’m currently learning **Typescript, TDD and Flutter.**
+- 🌱 I’m currently learning **Elixir and Phoenix LiveView**
 
-- 💬 Ask me about **React Native and NodeJS**
+- 💬 Ask me about **React Native**
 
 - 📫 Send an email to <a href = "mailto:rafael.rocha.ufv@gmail.com" target="_blank" >**rafael.rocha.ufv@gmail.com**</a>
 
